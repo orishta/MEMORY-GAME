@@ -47,5 +47,5 @@ README.md
 
 ## Author
 
-Ori Shtalhaim – November 2020  
+Ori  – November 2020  
 
